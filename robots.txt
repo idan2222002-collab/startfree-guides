@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://idan2222002-collab.github.io/startfree-guides/sitemap.xml
